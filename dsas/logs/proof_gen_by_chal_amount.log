@@ -1,0 +1,410 @@
+100
+Partial proof_gen costs 1.570099 seconds
+Aggregation costs 0.000143 seconds
+Integrity verifies
+Verify costs 3.059657 seconds
+Partial proof_gen costs 1.574807 seconds
+Aggregation costs 0.000147 seconds
+Integrity verifies
+Verify costs 3.088026 seconds
+Partial proof_gen costs 1.579241 seconds
+Aggregation costs 0.000098 seconds
+Integrity verifies
+Verify costs 3.057745 seconds
+Partial proof_gen costs 1.573696 seconds
+Aggregation costs 0.000083 seconds
+Integrity verifies
+Verify costs 3.059200 seconds
+Partial proof_gen costs 1.572326 seconds
+Aggregation costs 0.000098 seconds
+Integrity verifies
+Verify costs 3.060782 seconds
+Partial proof_gen costs 1.571927 seconds
+Aggregation costs 0.000143 seconds
+Integrity verifies
+Verify costs 3.064078 seconds
+Partial proof_gen costs 1.594233 seconds
+Aggregation costs 0.000084 seconds
+Integrity verifies
+Verify costs 3.080003 seconds
+Partial proof_gen costs 1.576063 seconds
+Aggregation costs 0.000099 seconds
+Integrity verifies
+Verify costs 3.117133 seconds
+Partial proof_gen costs 1.585764 seconds
+Aggregation costs 0.000126 seconds
+Integrity verifies
+Verify costs 3.065796 seconds
+Partial proof_gen costs 1.567790 seconds
+Aggregation costs 0.000131 seconds
+Integrity verifies
+Verify costs 3.083173 seconds
+200
+Partial proof_gen costs 3.164878 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 5.824023 seconds
+Partial proof_gen costs 3.146852 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 5.799581 seconds
+Partial proof_gen costs 3.151682 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 5.837970 seconds
+Partial proof_gen costs 3.156081 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 5.818368 seconds
+Partial proof_gen costs 3.148111 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 5.801467 seconds
+Partial proof_gen costs 3.164849 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 5.821925 seconds
+Partial proof_gen costs 3.154543 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 5.830821 seconds
+Partial proof_gen costs 3.159970 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 5.820426 seconds
+Partial proof_gen costs 3.142941 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 5.814205 seconds
+Partial proof_gen costs 3.148027 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 5.821786 seconds
+300
+Partial proof_gen costs 4.732447 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 8.652239 seconds
+Partial proof_gen costs 4.745896 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 8.669778 seconds
+Partial proof_gen costs 4.716046 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 8.696837 seconds
+Partial proof_gen costs 4.721774 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 8.653844 seconds
+Partial proof_gen costs 4.710753 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 8.626286 seconds
+Partial proof_gen costs 4.727853 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 8.657863 seconds
+Partial proof_gen costs 4.710217 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 8.625868 seconds
+Partial proof_gen costs 4.705509 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 8.630300 seconds
+Partial proof_gen costs 4.727087 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 8.632327 seconds
+Partial proof_gen costs 4.700264 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 8.625764 seconds
+400
+Partial proof_gen costs 6.311473 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.474942 seconds
+Partial proof_gen costs 6.278352 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 11.488692 seconds
+Partial proof_gen costs 6.275236 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.502600 seconds
+Partial proof_gen costs 6.275140 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.500503 seconds
+Partial proof_gen costs 6.279001 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 11.486693 seconds
+Partial proof_gen costs 6.263958 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.471537 seconds
+Partial proof_gen costs 6.289252 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 11.470694 seconds
+Partial proof_gen costs 6.311428 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.513759 seconds
+Partial proof_gen costs 6.285369 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.492398 seconds
+Partial proof_gen costs 6.259567 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 11.488411 seconds
+500
+Partial proof_gen costs 7.833539 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 14.305587 seconds
+Partial proof_gen costs 7.832898 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 14.360217 seconds
+Partial proof_gen costs 7.855059 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.312755 seconds
+Partial proof_gen costs 7.845487 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.349222 seconds
+Partial proof_gen costs 7.875688 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.263053 seconds
+Partial proof_gen costs 7.857644 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.271215 seconds
+Partial proof_gen costs 7.846940 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.288063 seconds
+Partial proof_gen costs 7.818199 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.277133 seconds
+Partial proof_gen costs 7.867672 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 14.387244 seconds
+Partial proof_gen costs 7.837158 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 14.303742 seconds
+600
+Partial proof_gen costs 9.400411 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.130322 seconds
+Partial proof_gen costs 9.424276 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 17.103806 seconds
+Partial proof_gen costs 9.407611 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.111473 seconds
+Partial proof_gen costs 9.391589 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.192175 seconds
+Partial proof_gen costs 9.397548 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.131508 seconds
+Partial proof_gen costs 9.422050 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.121490 seconds
+Partial proof_gen costs 9.401332 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 17.135186 seconds
+Partial proof_gen costs 9.401283 seconds
+Aggregation costs 0.000100 seconds
+Integrity verifies
+Verify costs 17.115929 seconds
+Partial proof_gen costs 9.397794 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.140786 seconds
+Partial proof_gen costs 9.394554 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 17.161105 seconds
+700
+Partial proof_gen costs 11.012578 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 19.965514 seconds
+Partial proof_gen costs 10.952252 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 19.944608 seconds
+Partial proof_gen costs 10.961036 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 19.942722 seconds
+Partial proof_gen costs 10.965255 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 19.935132 seconds
+Partial proof_gen costs 10.969688 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 19.979718 seconds
+Partial proof_gen costs 10.958011 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 19.967848 seconds
+Partial proof_gen costs 10.956189 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 19.946951 seconds
+Partial proof_gen costs 10.957300 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 19.939865 seconds
+Partial proof_gen costs 10.977168 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 19.959542 seconds
+Partial proof_gen costs 10.973467 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 20.006586 seconds
+800
+Partial proof_gen costs 12.512819 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 22.778732 seconds
+Partial proof_gen costs 12.500270 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 22.801804 seconds
+Partial proof_gen costs 12.525494 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 22.783133 seconds
+Partial proof_gen costs 12.553312 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 22.799544 seconds
+Partial proof_gen costs 12.518180 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 22.779154 seconds
+Partial proof_gen costs 12.519457 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 22.796812 seconds
+Partial proof_gen costs 12.523946 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 22.798899 seconds
+Partial proof_gen costs 12.540483 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 22.769080 seconds
+Partial proof_gen costs 12.513668 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 22.776899 seconds
+Partial proof_gen costs 12.553658 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 22.796157 seconds
+900
+Partial proof_gen costs 14.084948 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 25.594388 seconds
+Partial proof_gen costs 14.084403 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 25.583625 seconds
+Partial proof_gen costs 14.075358 seconds
+Aggregation costs 0.000062 seconds
+Integrity verifies
+Verify costs 25.656050 seconds
+Partial proof_gen costs 14.087119 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 25.596767 seconds
+Partial proof_gen costs 14.134604 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 25.636159 seconds
+Partial proof_gen costs 14.110800 seconds
+Aggregation costs 0.000106 seconds
+Integrity verifies
+Verify costs 25.635869 seconds
+Partial proof_gen costs 14.117538 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 25.604223 seconds
+Partial proof_gen costs 14.113512 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 25.649798 seconds
+Partial proof_gen costs 14.121126 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 25.658678 seconds
+Partial proof_gen costs 14.075469 seconds
+Aggregation costs 0.000066 seconds
+Integrity verifies
+Verify costs 25.626482 seconds
+1000
+Partial proof_gen costs 15.677924 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.446138 seconds
+Partial proof_gen costs 15.662822 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.506292 seconds
+Partial proof_gen costs 15.660874 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 28.418034 seconds
+Partial proof_gen costs 15.711997 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 28.471556 seconds
+Partial proof_gen costs 15.683577 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.521518 seconds
+Partial proof_gen costs 15.732190 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.500396 seconds
+Partial proof_gen costs 15.675551 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.434883 seconds
+Partial proof_gen costs 15.663006 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.464504 seconds
+Partial proof_gen costs 15.681485 seconds
+Aggregation costs 0.000066 seconds
+Integrity verifies
+Verify costs 28.748020 seconds
+Partial proof_gen costs 15.651776 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 28.471876 seconds

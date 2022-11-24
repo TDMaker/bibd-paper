@@ -1,0 +1,274 @@
+replica=3
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 197.447491 seconds
+Partial proof_gen costs 9.766803 seconds
+Aggregation costs 0.000075 seconds
+Integrity verifies
+Verify costs 17.202989 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 202.218570 seconds
+Partial proof_gen costs 9.160626 seconds
+Aggregation costs 0.000073 seconds
+Integrity verifies
+Verify costs 17.103604 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 177.305092 seconds
+Partial proof_gen costs 7.942077 seconds
+Aggregation costs 0.000065 seconds
+Integrity verifies
+Verify costs 14.866811 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 200.848400 seconds
+Partial proof_gen costs 9.205936 seconds
+Aggregation costs 0.000075 seconds
+Integrity verifies
+Verify costs 17.205296 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 202.084927 seconds
+Partial proof_gen costs 9.177393 seconds
+Aggregation costs 0.000073 seconds
+Integrity verifies
+Verify costs 17.142381 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 179.674035 seconds
+Partial proof_gen costs 7.938927 seconds
+Aggregation costs 0.000064 seconds
+Integrity verifies
+Verify costs 14.827833 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 203.188080 seconds
+Partial proof_gen costs 9.200912 seconds
+Aggregation costs 0.000074 seconds
+Integrity verifies
+Verify costs 17.245173 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 199.312808 seconds
+Partial proof_gen costs 8.046711 seconds
+Aggregation costs 0.000063 seconds
+Integrity verifies
+Verify costs 14.893731 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 202.891068 seconds
+Partial proof_gen costs 9.256004 seconds
+Aggregation costs 0.000074 seconds
+Integrity verifies
+Verify costs 17.323425 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 202.883830 seconds
+Partial proof_gen costs 9.215712 seconds
+Aggregation costs 0.000074 seconds
+Integrity verifies
+Verify costs 17.235755 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+replica=2
+Into SIG_GEN...
+SigGen costs 45.560192 seconds
+Partial proof_gen costs 2.106117 seconds
+Aggregation costs 0.000014 seconds
+Integrity verifies
+Verify costs 4.707248 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 46.410552 seconds
+Partial proof_gen costs 2.107233 seconds
+Aggregation costs 0.000013 seconds
+Integrity verifies
+Verify costs 4.713594 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 46.408591 seconds
+Partial proof_gen costs 2.123643 seconds
+Aggregation costs 0.000013 seconds
+Integrity verifies
+Verify costs 4.760881 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 46.306958 seconds
+Partial proof_gen costs 2.129102 seconds
+Aggregation costs 0.000014 seconds
+Integrity verifies
+Verify costs 4.738513 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 47.361735 seconds
+Partial proof_gen costs 2.470344 seconds
+Aggregation costs 0.000012 seconds
+Integrity verifies
+Verify costs 4.717357 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 46.570883 seconds
+Partial proof_gen costs 2.106431 seconds
+Aggregation costs 0.000013 seconds
+Integrity verifies
+Verify costs 4.710882 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 46.766225 seconds
+Partial proof_gen costs 2.132987 seconds
+Aggregation costs 0.000014 seconds
+Integrity verifies
+Verify costs 4.729953 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 42.907450 seconds
+Partial proof_gen costs 1.874563 seconds
+Aggregation costs 0.000012 seconds
+Integrity verifies
+Verify costs 4.104496 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 42.732250 seconds
+Partial proof_gen costs 1.880626 seconds
+Aggregation costs 0.000012 seconds
+Integrity verifies
+Verify costs 4.137188 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 42.379580 seconds
+Partial proof_gen costs 1.881050 seconds
+Aggregation costs 0.000012 seconds
+Integrity verifies
+Verify costs 4.131613 seconds
+
+replica=3
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 96.702051 seconds
+Partial proof_gen costs 4.362776 seconds
+Aggregation costs 0.000033 seconds
+Integrity verifies
+Verify costs 8.225710 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 103.734267 seconds
+Partial proof_gen costs 4.319179 seconds
+Aggregation costs 0.000032 seconds
+Integrity verifies
+Verify costs 8.135345 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 104.794494 seconds
+Partial proof_gen costs 4.326118 seconds
+Aggregation costs 0.000033 seconds
+Integrity verifies
+Verify costs 8.173366 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 104.972247 seconds
+Partial proof_gen costs 4.325917 seconds
+Aggregation costs 0.000073 seconds
+Integrity verifies
+Verify costs 8.134889 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 103.986562 seconds
+Partial proof_gen costs 4.315957 seconds
+Aggregation costs 0.000034 seconds
+Integrity verifies
+Verify costs 8.138065 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 106.250881 seconds
+Partial proof_gen costs 4.357792 seconds
+Aggregation costs 0.000032 seconds
+Integrity verifies
+Verify costs 8.215156 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 107.409092 seconds
+Partial proof_gen costs 5.001947 seconds
+Aggregation costs 0.000038 seconds
+Integrity verifies
+Verify costs 9.054456 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 105.852904 seconds
+Partial proof_gen costs 4.323144 seconds
+Aggregation costs 0.000033 seconds
+Integrity verifies
+Verify costs 8.140978 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 106.476009 seconds
+Partial proof_gen costs 4.988221 seconds
+Aggregation costs 0.000039 seconds
+Integrity verifies
+Verify costs 9.007194 seconds
+Into FILE_SPLIT...
+FILE_SPLIT done.
+
+Into SIG_GEN...
+SigGen costs 105.835102 seconds
+Partial proof_gen costs 4.310844 seconds
+Aggregation costs 0.000032 seconds
+Integrity verifies
+Verify costs 8.174048 seconds

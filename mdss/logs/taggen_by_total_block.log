@@ -1,0 +1,306 @@
+1000
+=======================1
+Tag generation costs 19.309434 seconds
+Proof generation costs 0.130173 seconds
+proof verifies
+Proof verification costs 1.640708 seconds
+=======================2
+Tag generation costs 19.338208 seconds
+Proof generation costs 0.133110 seconds
+proof verifies
+Proof verification costs 1.630604 seconds
+=======================3
+Tag generation costs 19.267159 seconds
+Proof generation costs 0.125942 seconds
+proof verifies
+Proof verification costs 1.623668 seconds
+=======================4
+Tag generation costs 19.285546 seconds
+Proof generation costs 0.130655 seconds
+proof verifies
+Proof verification costs 1.609384 seconds
+=======================5
+Tag generation costs 19.322954 seconds
+Proof generation costs 0.133600 seconds
+proof verifies
+Proof verification costs 1.634898 seconds
+=======================6
+Tag generation costs 19.450097 seconds
+Proof generation costs 0.121606 seconds
+proof verifies
+Proof verification costs 1.592246 seconds
+=======================7
+Tag generation costs 19.392312 seconds
+Proof generation costs 0.137717 seconds
+proof verifies
+Proof verification costs 1.612304 seconds
+=======================8
+Tag generation costs 19.452446 seconds
+Proof generation costs 0.134828 seconds
+proof verifies
+Proof verification costs 1.632702 seconds
+=======================9
+Tag generation costs 19.291895 seconds
+Proof generation costs 0.150899 seconds
+proof verifies
+Proof verification costs 1.647103 seconds
+=======================10
+Tag generation costs 19.316823 seconds
+Proof generation costs 0.124454 seconds
+proof verifies
+Proof verification costs 1.589639 seconds
+2000
+=======================1
+Tag generation costs 38.642065 seconds
+Proof generation costs 0.127605 seconds
+proof verifies
+Proof verification costs 1.595501 seconds
+=======================2
+Tag generation costs 38.524456 seconds
+Proof generation costs 0.124327 seconds
+proof verifies
+Proof verification costs 1.591634 seconds
+=======================3
+Tag generation costs 38.437677 seconds
+Proof generation costs 0.122003 seconds
+proof verifies
+Proof verification costs 1.600669 seconds
+=======================4
+Tag generation costs 38.616018 seconds
+Proof generation costs 0.130348 seconds
+proof verifies
+Proof verification costs 1.620228 seconds
+=======================5
+Tag generation costs 38.876607 seconds
+Proof generation costs 0.143913 seconds
+proof verifies
+Proof verification costs 1.631714 seconds
+=======================6
+Tag generation costs 39.012479 seconds
+Proof generation costs 0.124590 seconds
+proof verifies
+Proof verification costs 1.591763 seconds
+=======================7
+Tag generation costs 38.610845 seconds
+Proof generation costs 0.129493 seconds
+proof verifies
+Proof verification costs 1.618879 seconds
+=======================8
+Tag generation costs 38.748105 seconds
+Proof generation costs 0.142539 seconds
+proof verifies
+Proof verification costs 1.619168 seconds
+=======================9
+Tag generation costs 38.739889 seconds
+Proof generation costs 0.129752 seconds
+proof verifies
+Proof verification costs 1.610880 seconds
+=======================10
+Tag generation costs 38.728065 seconds
+Proof generation costs 0.130022 seconds
+proof verifies
+Proof verification costs 1.610966 seconds
+3000
+=======================1
+Tag generation costs 57.845383 seconds
+Proof generation costs 0.150772 seconds
+proof verifies
+Proof verification costs 1.620320 seconds
+=======================2
+Tag generation costs 58.004154 seconds
+Proof generation costs 0.134035 seconds
+proof verifies
+Proof verification costs 1.626286 seconds
+=======================3
+Tag generation costs 58.036479 seconds
+Proof generation costs 0.127251 seconds
+proof verifies
+Proof verification costs 1.605808 seconds
+=======================4
+Tag generation costs 57.910907 seconds
+Proof generation costs 0.137765 seconds
+proof verifies
+Proof verification costs 1.615626 seconds
+=======================5
+Tag generation costs 58.393358 seconds
+Proof generation costs 0.128590 seconds
+proof verifies
+Proof verification costs 1.643198 seconds
+=======================6
+Tag generation costs 57.962432 seconds
+Proof generation costs 0.129772 seconds
+proof verifies
+Proof verification costs 1.607459 seconds
+=======================7
+Tag generation costs 58.206651 seconds
+Proof generation costs 0.131597 seconds
+proof verifies
+Proof verification costs 1.623069 seconds
+=======================8
+Tag generation costs 58.181200 seconds
+Proof generation costs 0.126618 seconds
+proof verifies
+Proof verification costs 1.607222 seconds
+=======================9
+Tag generation costs 57.943081 seconds
+Proof generation costs 0.152704 seconds
+proof verifies
+Proof verification costs 1.657838 seconds
+=======================10
+Tag generation costs 58.090472 seconds
+Proof generation costs 0.129616 seconds
+proof verifies
+Proof verification costs 1.619363 seconds
+4000
+=======================1
+Tag generation costs 77.653666 seconds
+Proof generation costs 0.125167 seconds
+proof verifies
+Proof verification costs 1.641939 seconds
+=======================2
+Tag generation costs 76.898094 seconds
+Proof generation costs 0.120770 seconds
+proof verifies
+Proof verification costs 1.625022 seconds
+=======================3
+Tag generation costs 77.260998 seconds
+Proof generation costs 0.127915 seconds
+proof verifies
+Proof verification costs 1.626062 seconds
+=======================4
+Tag generation costs 77.515314 seconds
+Proof generation costs 0.153602 seconds
+proof verifies
+Proof verification costs 1.640912 seconds
+=======================5
+Tag generation costs 77.173539 seconds
+Proof generation costs 0.151768 seconds
+proof verifies
+Proof verification costs 1.637357 seconds
+=======================6
+Tag generation costs 77.401553 seconds
+Proof generation costs 0.120125 seconds
+proof verifies
+Proof verification costs 1.595127 seconds
+=======================7
+Tag generation costs 77.235143 seconds
+Proof generation costs 0.149809 seconds
+proof verifies
+Proof verification costs 1.625049 seconds
+=======================8
+Tag generation costs 77.224043 seconds
+Proof generation costs 0.123290 seconds
+proof verifies
+Proof verification costs 1.597605 seconds
+=======================9
+Tag generation costs 77.513321 seconds
+Proof generation costs 0.155729 seconds
+proof verifies
+Proof verification costs 1.635167 seconds
+=======================10
+Tag generation costs 77.535262 seconds
+Proof generation costs 0.152493 seconds
+proof verifies
+Proof verification costs 1.632214 seconds
+5000
+=======================1
+Tag generation costs 96.768770 seconds
+Proof generation costs 0.126431 seconds
+proof verifies
+Proof verification costs 1.625973 seconds
+=======================2
+Tag generation costs 96.513421 seconds
+Proof generation costs 0.153894 seconds
+proof verifies
+Proof verification costs 1.662550 seconds
+=======================3
+Tag generation costs 96.808228 seconds
+Proof generation costs 0.130277 seconds
+proof verifies
+Proof verification costs 1.644294 seconds
+=======================4
+Tag generation costs 95.655642 seconds
+Proof generation costs 0.130262 seconds
+proof verifies
+Proof verification costs 1.643294 seconds
+=======================5
+Tag generation costs 97.005235 seconds
+Proof generation costs 0.151676 seconds
+proof verifies
+Proof verification costs 1.691935 seconds
+=======================6
+Tag generation costs 97.777692 seconds
+Proof generation costs 0.123929 seconds
+proof verifies
+Proof verification costs 1.632920 seconds
+=======================7
+Tag generation costs 96.758236 seconds
+Proof generation costs 0.133875 seconds
+proof verifies
+Proof verification costs 1.616883 seconds
+=======================8
+Tag generation costs 96.400479 seconds
+Proof generation costs 0.156404 seconds
+proof verifies
+Proof verification costs 1.675461 seconds
+=======================9
+Tag generation costs 96.490001 seconds
+Proof generation costs 0.128525 seconds
+proof verifies
+Proof verification costs 1.606339 seconds
+=======================10
+Tag generation costs 97.022773 seconds
+Proof generation costs 0.122943 seconds
+proof verifies
+Proof verification costs 1.639870 seconds
+6000
+=======================1
+Tag generation costs 116.859913 seconds
+Proof generation costs 0.152216 seconds
+proof verifies
+Proof verification costs 1.691357 seconds
+=======================2
+Tag generation costs 116.484047 seconds
+Proof generation costs 0.144259 seconds
+proof verifies
+Proof verification costs 1.643822 seconds
+=======================3
+Tag generation costs 115.988406 seconds
+Proof generation costs 0.139407 seconds
+proof verifies
+Proof verification costs 1.632892 seconds
+=======================4
+Tag generation costs 116.908938 seconds
+Proof generation costs 0.152038 seconds
+proof verifies
+Proof verification costs 1.674565 seconds
+=======================5
+Tag generation costs 116.906825 seconds
+Proof generation costs 0.134346 seconds
+proof verifies
+Proof verification costs 1.636378 seconds
+=======================6
+Tag generation costs 116.147431 seconds
+Proof generation costs 0.142118 seconds
+proof verifies
+Proof verification costs 1.635600 seconds
+=======================7
+Tag generation costs 115.999849 seconds
+Proof generation costs 0.147625 seconds
+proof verifies
+Proof verification costs 1.634214 seconds
+=======================8
+Tag generation costs 115.574293 seconds
+Proof generation costs 0.119959 seconds
+proof verifies
+Proof verification costs 1.615278 seconds
+=======================9
+Tag generation costs 115.359389 seconds
+Proof generation costs 0.123747 seconds
+proof verifies
+Proof verification costs 1.605768 seconds
+=======================10
+Tag generation costs 115.620039 seconds
+Proof generation costs 0.152263 seconds
+proof verifies
+Proof verification costs 1.675829 seconds
